@@ -1,0 +1,11 @@
+site_name: Awesome オープンコンタクト JP
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+  font:
+    text: Mochiy Pop One
+  language: ja
+  logo: assets/akusyu_uchuujin.png
+  favicon: assets/akusyu_uchuujin.png
