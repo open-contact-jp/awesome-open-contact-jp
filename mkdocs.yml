@@ -1,6 +1,7 @@
 site_name: Awesome オープンコンタクト JP
 nav:
   - ホーム: index.md
+  - リンク集: links.md
   - 支援者の方へ: contributor.md
 theme:
   name: material
