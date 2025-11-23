@@ -1,7 +1,7 @@
 # リンク集(情報源)
 
 オープンコンタクト/スピリチュアル関連情報を発信している人物/存在を記載します。    
-※辞書順で記載しています。
+※敬称略。辞書順で記載。
 
 ## Abraham(エイブラハム) / Esther Hicks(エスター・ヒックス)
 
@@ -46,6 +46,15 @@
 
 * [公式サイト](https://drstevengreer.com/)
     * [Youtube](https://www.youtube.com/drstevengreer55)
+
+## 岩瀬アキラ
+
+* [Youtube](https://www.youtube.com/@akiraiwase38/featured)
+
+## げんちゅう
+
+* [公式サイト](https://www.opencontact.biz/)
+    * [Youtube](https://www.youtube.com/channel/UC7WFuzFWq-1IPJiS24yreEQ)    
 
 ## 並木良和
 
