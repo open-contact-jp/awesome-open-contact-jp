@@ -2,9 +2,11 @@
 
 オープンコンタクト(宇宙存在との世界規模の交流)に関する情報を整理しています。
 
+本サイトにご支援いただける方は[支援者の方へ](contributor.md)をご覧ください。
+
 ## Links
 
-* [GitHub | awesome-open-contact-jp](https://github.com/ds-system-inc/awesome-open-contact-jp)
+* [GitHub | awesome-open-contact-jp](https://github.com/open-contact-jp/awesome-open-contact-jp)
 
 ## Discord
 

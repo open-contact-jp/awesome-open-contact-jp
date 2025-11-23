@@ -1,4 +1,7 @@
 site_name: Awesome オープンコンタクト JP
+nav:
+  - ホーム: index.md
+  - 支援者の方へ: contributor.md
 theme:
   name: material
   palette:
@@ -9,3 +12,9 @@ theme:
   language: ja
   logo: assets/akusyu_uchuujin.png
   favicon: assets/akusyu_uchuujin.png
+extra_css:
+  - style/extra.css
+markdown_extensions:
+  - attr_list
+  - pymdownx.details
+
