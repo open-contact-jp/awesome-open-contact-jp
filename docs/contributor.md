@@ -7,7 +7,7 @@
 本サイトに記載を推薦する情報を共有いただける方は以下よりご連絡ください。
 
 * [Discordコミュニティ(無料)](#discord-community)
-    * `#awesome-open-contact-jp`または管理者(`Sean Daru`)に直接ご連絡ください。
+    * `#awesome-open-contact-jp`または管理者(`Sean Daru`)にご連絡ください。
 * Email
     * 準備中...
 
@@ -58,7 +58,7 @@ mkdocs build
 ```
 
 ※興味はあるけれど上記の意味がわからないという方は、  
-[Discordコミュニティ(無料)](#discord-community)より`#awesome-open-contact-jp`または管理者(`Sean Daru`)に直接ご連絡ください。
+[Discordコミュニティ(無料)](#discord-community)の`#awesome-open-contact-jp`または管理者(`Sean Daru`)にご連絡ください。
 
 ## 運用資金サポート
 
